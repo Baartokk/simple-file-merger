@@ -1,8 +1,8 @@
 import os, time
 
-path = 'files_to_merge/' #cesta k suborom
-file_format = 'txt' #format kopirovanych suborov a vysledneho suboru
-header = False #ci maju subory hlavicku
+path = 'files_to_merge/'
+file_format = 'txt'
+header = False
 
 #---------------------------------------------------------------------
 
